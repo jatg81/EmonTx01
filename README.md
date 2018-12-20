@@ -5,5 +5,5 @@ Medición de parametros eléctricos del tablero de alimentación mediante la tar
 Los datos medidos son enviados al Raspberry Pi (EmonPi) mediante la tarjeta de RF RM69CW 433Mhz utilizando el protocolo RF12 de jeelib.
 
 <p align="center">
-  <img width="460" height="300" src="/docs/files/20180324_135821.jpg">
+  <img width="460" height="300" src="/docs/files/Tablero1.jpg">
 </p>
