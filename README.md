@@ -8,5 +8,5 @@ Los datos medidos son enviados al Raspberry Pi (EmonPi) mediante la tarjeta de R
   <img width="460" height="300" src="/docs/files/Tablero1.png">
 </p>
 <p align="center">
-  <img width="460" height="300" src="/docs/files/Tablero2.png">
+  <img width="460" height="300" src="/docs/files/tablero2.png">
 </p>
